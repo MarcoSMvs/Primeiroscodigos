@@ -1,0 +1,2 @@
+# logica
+ meus primeiros codigos
